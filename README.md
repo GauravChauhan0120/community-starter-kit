@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Probot is a open source app for learning for new user. They can contribute in this project as it is open source project.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Probot is a framework for building GitHub Apps in Node.js, written in TypeScript. GitHub Apps can listen to webhook events sent by a repository or organization.
 
 ## Getting started
 
